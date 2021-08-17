@@ -1,0 +1,23 @@
+{
+  "name": "noj-monaco-themes",
+  "version": "1.0.0",
+  "description": "monaco-themes wrapper for NOJ",
+  "main": null,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJUPTAAA/noj-monaco-themes.git"
+  },
+  "keywords": [
+    "noj",
+    "monaco-themes"
+  ],
+  "author": "zsgsdesign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NJUPTAAA/noj-monaco-themes/issues"
+  },
+  "homepage": "https://github.com/NJUPTAAA/noj-monaco-themes#readme"
+}
