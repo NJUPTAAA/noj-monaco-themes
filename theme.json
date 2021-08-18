@@ -7557,7 +7557,7 @@
                 "token": "punctuation.definition.comment"
             },
             {
-                "foreground": "eeffffff",
+                "foreground": "f07178",
                 "token": "variable"
             },
             {
