@@ -1,0 +1,17 @@
+{
+    "base": "vs-dark",
+    "inherit": true,
+    "rules": [],
+    "colors": {
+        "editor.background": "#000000",
+        "editor.foreground": "#FFFFFF",
+        "editorIndentGuide.background": "#FFFFFF",
+        "editorIndentGuide.activeBackground": "#FFFFFF",
+        "sideBarTitle.foreground": "#FFFFFF",
+        "selection.background": "#008000",
+        "editor.selectionBackground": "#FFFFFF",
+        "statusBarItem.remoteBackground": "#00000000",
+        "ports.iconRunningProcessForeground": "#FFFFFF",
+        "editorWhitespace.foreground": "#7c7c7c"
+    }
+}

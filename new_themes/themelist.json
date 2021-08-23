@@ -2,5 +2,8 @@
   "github": "GitHub",
   "github-dark": "GitHub Dark",
   "material-design": "Material Design",
-  "monokai": "Monokai"
+  "monokai": "Monokai",
+  "material-design-darker": "Material Design Darker",
+  "material-design-lighter": "Material Design Lighter",
+  "hc-black": "High Contrast Dark"
 }
