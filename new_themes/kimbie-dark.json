@@ -1,6 +1,6 @@
 {
     "base": "vs-dark",
-    "inherit": false,
+    "inherit": true,
     "rules": [],
     "colors": {
         "input.background": "#51412c",

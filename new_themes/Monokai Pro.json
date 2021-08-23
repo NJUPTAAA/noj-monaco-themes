@@ -1,6 +1,6 @@
 {
   "base": "vs-dark",
-  "inherit": false,
+  "inherit": true,
   "rules": [],
   "colors": {
     "focusBorder": "#727072",

@@ -1,7 +1,7 @@
 {
     "github": {
         "base": "vs",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#0366d6",
@@ -176,7 +176,7 @@
     },
     "github-dark": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#388bfd",
@@ -355,7 +355,7 @@
     },
     "material-design": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#FFFFFF00",
@@ -573,7 +573,7 @@
     },
     "monokai-pro": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#727072",
@@ -940,7 +940,7 @@
     },
     "monokai-classic": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#6e7066",
@@ -1307,7 +1307,7 @@
     },
     "material-design-darker": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#FFFFFF00",
@@ -1525,7 +1525,7 @@
     },
     "material-design-lighter": {
         "base": "vs",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#FFFFFF00",
@@ -1743,7 +1743,7 @@
     },
     "abyss": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "editor.background": "#000c18",
@@ -1841,7 +1841,7 @@
     },
     "quietlight": {
         "base": "vs",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#A6B39B",
@@ -1904,7 +1904,7 @@
     },
     "red": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "activityBar.background": "#580000",
@@ -1966,7 +1966,7 @@
     },
     "solarized-dark": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#2AA19899",
@@ -2061,7 +2061,7 @@
     },
     "solarized-light": {
         "base": "vs",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#D3AF86",
@@ -2149,7 +2149,7 @@
     },
     "tomorrow-night-blue": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "focusBorder": "#bbdaff",
@@ -2211,7 +2211,7 @@
     },
     "kimbie-dark": {
         "base": "vs-dark",
-        "inherit": false,
+        "inherit": true,
         "rules": [],
         "colors": {
             "input.background": "#51412c",

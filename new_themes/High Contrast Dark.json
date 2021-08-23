@@ -1,6 +1,6 @@
 {
     "base": "hc-black",
-    "inherit": false,
+    "inherit": true,
     "rules": [],
     "colors": {
         "editor.background": "#000000",
