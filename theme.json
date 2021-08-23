@@ -1024,8 +1024,8 @@
         }
     },
     "hc-black": {
-        "base": "vs-dark",
-        "inherit": true,
+        "base": "hc-black",
+        "inherit": false,
         "rules": [],
         "colors": {
             "editor.background": "#000000",
