@@ -1,7 +1,7 @@
 {
     "github": {
-        "base": "vs",
-        "inherit": true,
+        "base": "github",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#0366d6",
@@ -175,8 +175,8 @@
         }
     },
     "github-dark": {
-        "base": "vs-dark",
-        "inherit": true,
+        "base": "github-dark",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#388bfd",
@@ -354,8 +354,8 @@
         }
     },
     "material-design": {
-        "base": "vs-dark",
-        "inherit": true,
+        "base": "material-design",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#FFFFFF00",
@@ -572,8 +572,8 @@
         }
     },
     "monokai-pro": {
-        "base": "vs-dark",
-        "inherit": true,
+        "base": "monokai-pro",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#727072",
@@ -939,8 +939,8 @@
         }
     },
     "monokai-classic": {
-        "base": "vs-dark",
-        "inherit": true,
+        "base": "monokai-classic",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#6e7066",
@@ -1306,8 +1306,8 @@
         }
     },
     "material-design-darker": {
-        "base": "vs-dark",
-        "inherit": true,
+        "base": "material-design-darker",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#FFFFFF00",
@@ -1524,8 +1524,8 @@
         }
     },
     "material-design-lighter": {
-        "base": "vs",
-        "inherit": true,
+        "base": "material-design-lighter",
+        "inherit": false,
         "rules": [],
         "colors": {
             "focusBorder": "#FFFFFF00",

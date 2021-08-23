@@ -1,6 +1,6 @@
 {
-  "base": "vs",
-  "inherit": true,
+  "base": "github",
+  "inherit": false,
   "rules": [],
   "colors": {
     "focusBorder": "#0366d6",

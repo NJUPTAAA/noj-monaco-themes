@@ -1,6 +1,6 @@
 {
-  "base": "vs",
-  "inherit": true,
+  "base": "material-design-lighter",
+  "inherit": false,
   "rules": [],
   "colors": {
     "focusBorder": "#FFFFFF00",

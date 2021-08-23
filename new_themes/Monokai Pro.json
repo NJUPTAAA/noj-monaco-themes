@@ -1,6 +1,6 @@
 {
-  "base": "vs-dark",
-  "inherit": true,
+  "base": "monokai-pro",
+  "inherit": false,
   "rules": [],
   "colors": {
     "focusBorder": "#727072",
