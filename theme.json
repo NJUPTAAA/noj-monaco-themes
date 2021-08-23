@@ -1,6 +1,6 @@
 {
     "github": {
-        "base": "github",
+        "base": "vs",
         "inherit": false,
         "rules": [],
         "colors": {
@@ -175,7 +175,7 @@
         }
     },
     "github-dark": {
-        "base": "github-dark",
+        "base": "vs-dark",
         "inherit": false,
         "rules": [],
         "colors": {
@@ -354,7 +354,7 @@
         }
     },
     "material-design": {
-        "base": "material-design",
+        "base": "vs-dark",
         "inherit": false,
         "rules": [],
         "colors": {
@@ -572,7 +572,7 @@
         }
     },
     "monokai-pro": {
-        "base": "monokai-pro",
+        "base": "vs-dark",
         "inherit": false,
         "rules": [],
         "colors": {
@@ -939,7 +939,7 @@
         }
     },
     "monokai-classic": {
-        "base": "monokai-classic",
+        "base": "vs-dark",
         "inherit": false,
         "rules": [],
         "colors": {
@@ -1306,7 +1306,7 @@
         }
     },
     "material-design-darker": {
-        "base": "material-design-darker",
+        "base": "vs-dark",
         "inherit": false,
         "rules": [],
         "colors": {
@@ -1524,7 +1524,7 @@
         }
     },
     "material-design-lighter": {
-        "base": "material-design-lighter",
+        "base": "vs",
         "inherit": false,
         "rules": [],
         "colors": {

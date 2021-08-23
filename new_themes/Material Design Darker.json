@@ -1,5 +1,5 @@
 {
-  "base": "material-design-darker",
+  "base": "vs-dark",
   "inherit": false,
   "rules": [],
   "colors": {

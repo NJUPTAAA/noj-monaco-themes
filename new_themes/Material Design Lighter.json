@@ -1,5 +1,5 @@
 {
-  "base": "material-design-lighter",
+  "base": "vs",
   "inherit": false,
   "rules": [],
   "colors": {

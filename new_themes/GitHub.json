@@ -1,5 +1,5 @@
 {
-  "base": "github",
+  "base": "vs",
   "inherit": false,
   "rules": [],
   "colors": {

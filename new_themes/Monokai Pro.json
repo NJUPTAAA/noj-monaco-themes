@@ -1,5 +1,5 @@
 {
-  "base": "monokai-pro",
+  "base": "vs-dark",
   "inherit": false,
   "rules": [],
   "colors": {
